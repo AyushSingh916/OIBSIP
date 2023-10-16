@@ -1,0 +1,43 @@
+body {
+    background-image: url('https://i.imgur.com/vgrvDg9.jpg'); /* Apple-themed background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+    color: #333;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+div#tribute-data {
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5);
+    font-family: Georgia;
+    padding: 25px;
+    margin: 11px;
+    margin-top: 50px;
+    color: #333;
+}
+
+h1.title-steve {
+    font-size: 35px;
+    color: #333;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: #333;
+}
